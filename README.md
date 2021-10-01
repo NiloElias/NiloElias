@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Nilo Elias
-🔭 I’m currently working on a web site for my company
+🔭 I’m currently working on a web site for my company.
+🌱 I’m currently learning HTML and PHP.
 <!--
 **NiloElias/NiloElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
